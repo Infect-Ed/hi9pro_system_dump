@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<WHITELIST>
+    <PerfService>
+        <Package name="com.tencent.tmgp.sgame">
+           <Activity name="Common">
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="1" Param2="4"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="2" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="1391000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1846000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="2" Param2="2314000"/>
+                <CMD_SET_SCREEN_OFF_STATE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.wesix">
+           <Activity name="Common">
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="1" Param2="4"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="2" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="1391000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1846000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="2" Param2="2314000"/>
+                <CMD_SET_SCREEN_OFF_STATE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.speedmobile">
+           <Activity name="Common">
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="1" Param2="4"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="2" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="1391000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1846000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="2" Param2="2314000"/>
+                <CMD_SET_SCREEN_OFF_STATE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.tmgp.pubgmhd">
+           <Activity name="Common">
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="1" Param2="4"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="2" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="1391000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1846000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="2" Param2="2314000"/>
+                <CMD_SET_SCREEN_OFF_STATE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.clover">
+           <Activity name="Common">
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="1" Param2="4"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="2" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="1391000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1846000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="2" Param2="2314000"/>
+                <CMD_SET_SCREEN_OFF_STATE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.tencent.peng">
+           <Activity name="Common">
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="1" Param2="4"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="2" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="1391000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1846000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="2" Param2="2314000"/>
+                <CMD_SET_SCREEN_OFF_STATE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.happyelements.AndroidAnimal.qq">
+           <Activity name="Common">
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="1" Param2="4"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="2" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="1391000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1846000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="2" Param2="2314000"/>
+                <CMD_SET_SCREEN_OFF_STATE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.imangi.templerun2">
+           <Activity name="Common">
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="1" Param2="4"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="2" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="1391000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1846000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="2" Param2="2314000"/>
+                <CMD_SET_SCREEN_OFF_STATE Param1="1"/>
+            </Activity>
+        </Package>
+
+        <Package name="com.kiloo.subwaysurf">
+           <Activity name="Common">
+              <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="1" Param2="4"/>
+               <CMD_SET_CLUSTER_CPU_CORE_MIN Param1="2" Param2="2"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="0" Param2="1391000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="1" Param2="1846000"/>
+               <CMD_SET_CLUSTER_CPU_FREQ_MIN Param1="2" Param2="2314000"/>
+                <CMD_SET_SCREEN_OFF_STATE Param1="1"/>
+            </Activity>
+        </Package>
+<!--
+        <Package name="com.imangi.templerun2">
+        	<Activity name="Common">
+            	<CMD_SET_CLUSTER_CPU_CORE_MIN Param1="0" Param2="3"/>
+            </Activity>
+        </Package>
+-->
+        <Package name="com.andromeda.androbench2">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.futuremark.pcmark.android.benchmark">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.antutu.ABenchMark">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.primatelabs.geekbench">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.aurorasoftworks.quadrant.ui.professional">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+        <Package name="com.aurorasoftworks.quadrant.ui.advanced">
+            <Activity name="Common">
+                <CMD_SET_SPORTS_MODE Param1="1"/>
+            </Activity>
+        </Package>
+    </PerfService>
+</WHITELIST>
